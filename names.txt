@@ -56,7 +56,7 @@
 | 53 | Mohamed Ahmad Taher Mohamed Ahmad Elkhouli    |      |
 | 54 | Mohamed Elmansour Abdelhameed Ismail Ahmad    |      |
 | 55 | Mohamed Hassan Khamees Elsayed Aboukhashaba   |      |
-| 56 | Mohamed Sherif Aly Osman Hegazi               |      |
+| 56 | Mohamed Sherif Aly Osman Hegazi               | Yes  |
 | 57 | Mohamed Abdelrahman Mostafa Aly Elfeqy        |      |
 | 58 | Mohamed Mahmoud Ahmad Seif Eldeen             |      |
 | 59 | Mohamed Mosaad Mohamed Ahmad Ngla             |      |
